@@ -1,0 +1,94 @@
+p {margin-top: 0;}
+
+/*header*/
+.header-section { width: 100%; display: inline-block; height: 140px;}
+.header-section .header-menu ul {padding-right: 40px;}
+.header-section .header-menu ul li{margin-top:20px;}
+.header-section .header-menu ul li:after {content: ""; display: inline-block; width: 9px; height: 58px; position: absolute; top: -20px; right: -5px; background-image: url(./wp-content/themes/Avada-child/images/menu-separator.png); background-repeat: no-repeat;}
+.header-section .header-menu ul li:last-child:after {display: none;}
+.header-section .header-menu ul li a{display: inline-block !important;}
+.header-section .header-menu .btn a {width: 100% !important;  display: inline-block !important;  background-image: url(./wp-content/themes/Avada-child/images/button-connect.png);  text-align: center; max-width: 275px; padding: 52px 44px 28px 44px !important; background-repeat: no-repeat;}
+.header-section .header-menu .last a {width: 170px!important; line-height: 20px;}
+.header-section .header-menu .btn { margin-top: 20px;}
+
+.innerpage-header #header-right {position: absolute; right: 20px;}
+
+/*Footer*/
+.footer-section .footer-icon {justify-content:center;}
+.footer-section .footer-icon .fusion-content-layout-column{width:auto !important; display:inline-block !important; float:none;}
+.footer-section .footer-icon div {width:auto !important; display:inline-block !important; float:none;}
+
+/**/
+.top-banner-section > .fusion-column-wrapper{background-size:928px 754px !important;}
+
+.banner-section {top:70px; left: 0px;}
+.banner-section .fusion-layout-column {margin-bottom: 350px !important;}
+.banner-bottom-section .banner-btn:before {content: "";display: inline-block; width: 27%; height: 74px; position: absolute; top: 17px; left: 0; background-image: url(./wp-content/themes/Avada-child/images/buy-btn-left.png); background-repeat: no-repeat; background-size: 100% 100%;}
+.banner-bottom-section .banner-btn:after{content: ""; display: inline-block; width: 27%; height:74px; position: absolute; top: 18px; right: 0%; background-image: url(./wp-content/themes/Avada-child/images/buy-btn-right.png); background-repeat: no-repeat; background-size: 100% 100%;}
+
+.banner-section .fusion-column-wrapper {position: relative; display: inline-block !important;}
+.banner-section .fusion-column-wrapper .fusion-builder-row {padding: 170px 0 0;}
+.banner-section .fusion-builder-row-inner .banner-title { top:-25px; z-index: 999;}
+
+.banner-section .fusion-column-wrapper .banner-title .soon {background: #721716; height: 83px; text-align: center; vertical-align: middle;}
+.banner-section .fusion-column-wrapper .banner-title .soon h2{padding-top: 22px !important;}
+.banner-section .fusion-builder-row-inner .fusion-layout-column { margin: 0px !important;}
+.banner-section .fusion-builder-row-inner .banner-right {top:-122px; left: -50px; max-width: 385px;}
+
+.banner-section .fusion-column-wrapper .banner-right .fusion-column-wrapper > div {max-width: 50%; float: left;}
+.banner-section .fusion-column-wrapper .banner-right .fusion-column-wrapper > div:nth-child(2n) {float: right;}
+.banner-section .fusion-column-wrapper .banner-right .fusion-column-wrapper > div:nth-child(2n) { float: right;  /* margin-top: 45px; */}
+.banner-section .fusion-column-wrapper .banner-right .fusion-column-wrapper > div:nth-child(2) {top: 36px; position: relative;position: absolute;right: 30px;}
+.banner-section .fusion-column-wrapper .banner-right .fusion-column-wrapper > div:nth-child(3) {position: absolute;left: 0;top: 133px;left: -37px;}
+.banner-section .fusion-column-wrapper .banner-right .fusion-column-wrapper > div:nth-child(4) {position: absolute;right: 67px;top: 172px;}
+
+.banner-bottom-section{background-size: 100% 537px !important;}
+.banner-bottom-section .banner-btn {border: none;background: initial !important; margin-top: 20px;padding: 0; width: 30.6%; margin-left: 16px;}
+.banner-bottom-section .banner-btn span{width: 100% !important;  display: inline-block !important;  background-image: url(./wp-content/themes/Avada-child/images/Button-bg.png);  text-align: center; max-width: 274px; padding:30px 50px!important; background-repeat: no-repeat; font-size: 22px; color: #dda941 !important;font-family: "OPTIColumna"; font-weight: 400; margin-left: 0px;}
+
+.banner-pop-left {left: 9%; z-index: 99; top: -80px;}
+.fuchar-img-section{background-size:auto;}
+
+.ilightbox-overlay.dark {background: transparent !important;}
+.ilightbox-toolbar.dark{display: none !important}
+.ilightbox-holder.dark {padding: 62px 56px !important; background: transparent !important; box-shadow: none !important; background: url(./wp-content/themes/Avada-child/images/Slider_Handle.png) !important;  background-size: 100% 100% !important;}
+
+.winter-secttion span {width: 100%;}
+.winter-secttion span img {width: 100%;}
+
+.fuchar-img-section .fusion-builder-row .fusion-imageframe, .fuchar-img-section .fusion-builder-row .fusion-imageframe img {width: 100%;}
+
+/*FAQ*/
+.faq-section {border: 20px solid #4e392a !important;}
+.faq-section .fusion-row {border: 20px solid #6d563b; max-width: 100% !important;}
+.faq-section .fusion-panel h4{padding: 36px 0px;}
+.faq-section .fusion-panel h4 a{padding: 0px}
+.faq-section .fusion-panel h4 a span {font-family: "OPTIColumna"; font-weight: 400; color:#FFF;}
+.faq-section .fusion-accordian #accordion-6-1 .panel-title .active .fa-fusion-box, .faq-section .fusion-accordian #accordion-6-1 .panel-title a:hover .fa-fusion-box{background-color: transparent !important;}
+
+.faq-section .fusion-panel .toggle-content {font-family: "OPTIColumna"; font-weight: 400; color:#FFF; font-size:18px; word-break: break-word;}
+
+/**/
+.avada-page-titlebar-wrapper{padding-top: 100px;}
+/*
+     FILE ARCHIVED ON 16:16:22 Jan 21, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:56:20 Aug 05, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 627.813
+  exclusion.robots: 0.294
+  exclusion.robots.policy: 0.28
+  cdx.remote: 0.097
+  esindex: 0.015
+  LoadShardBlock: 135.882 (3)
+  PetaboxLoader3.datanode: 136.826 (5)
+  CDXLines.iter: 18.837 (3)
+  load_resource: 256.784
+  PetaboxLoader3.resolve: 75.659
+  loaddict: 9.357
+*/

@@ -1,0 +1,24 @@
+body .extendedwopts-show{display:none}body .widgetopts-hide_title .widget-title{display:none}body .extendedwopts-md-right{text-align:right}body .extendedwopts-md-left{text-align:left}body .extendedwopts-md-center{text-align:center}body .extendedwopts-md-justify{text-align:justify}@media screen and (min-width: 769px){body .extendedwopts-hide.extendedwopts-desktop{display:none !important;}body .extendedwopts-show.extendedwopts-desktop{display:block}body .widget.clearfix-desktop{clear:both}}@media screen and (max-width: 768px) and (min-width: 737px){body .extendedwopts-hide.extendedwopts-tablet{display:none !important;}body .extendedwopts-show.extendedwopts-tablet{display:block}body .widget.clearfix-desktop{clear:none}body .widget.clearfix-tablet{clear:both}}@media screen and (max-width: 736px){body .extendedwopts-hide.extendedwopts-mobile{display:none !important;}body .extendedwopts-show.extendedwopts-mobile{display:block}body .widget.clearfix-desktop,body .widget.clearfix-tablet{clear:none}body .widget.clearfix-mobile{clear:both}}
+
+/*
+     FILE ARCHIVED ON 05:00:08 Dec 12, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:52:31 Aug 05, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 153.997
+  exclusion.robots: 0.204
+  exclusion.robots.policy: 0.195
+  cdx.remote: 0.074
+  esindex: 0.012
+  LoadShardBlock: 111.133 (3)
+  PetaboxLoader3.datanode: 43.726 (5)
+  CDXLines.iter: 31.557 (3)
+  PetaboxLoader3.resolve: 91.807 (3)
+  load_resource: 36.387
+  loaddict: 6.91
+*/
